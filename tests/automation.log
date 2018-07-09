@@ -1,0 +1,375 @@
+07/08/2018 04:19:10 PM - SeleniumDriver - INFO: Element not found with locator: div.vertical-nav.ul.li:nth-child(1) and  locatorType: css
+07/08/2018 04:19:10 PM - SeleniumDriver - INFO: Cannot click on the element with locator: div.vertical-nav.ul.li:nth-child(1) locatorType: css
+07/08/2018 04:19:15 PM - SeleniumDriver - INFO: Element found with locator: mce-EMAIL and  locatorType: id
+07/08/2018 04:19:15 PM - SeleniumDriver - INFO: Sent data on element with locator: mce-EMAIL locatorType: id
+07/08/2018 04:19:15 PM - SeleniumDriver - INFO: Element found with locator: mc-embedded-subscribe and  locatorType: id
+07/08/2018 04:19:15 PM - SeleniumDriver - INFO: Cannot click on the element with locator: mc-embedded-subscribe locatorType: id
+07/08/2018 04:19:15 PM - SeleniumDriver - INFO: Element not found
+07/08/2018 04:19:15 PM - SeleniumDriver - INFO: Element found with locator: body > div.api-side.home > div.try > div.image > div > img and  locatorType: css
+07/08/2018 04:19:15 PM - SeleniumDriver - INFO: Clicked on element with locator: body > div.api-side.home > div.try > div.image > div > img locatorType: css
+07/08/2018 04:19:15 PM - SeleniumDriver - INFO: Element not found with locator: .body > div.api-side.home > div.code-wrapper > a and  locatorType: css
+07/08/2018 04:19:15 PM - SeleniumDriver - INFO: Cannot click on the element with locator: .body > div.api-side.home > div.code-wrapper > a locatorType: css
+07/08/2018 04:19:15 PM - SeleniumDriver - INFO: Element found with locator: body > div.api-side.home > div.try > div.image > div > img and  locatorType: css
+07/08/2018 04:19:15 PM - SeleniumDriver - INFO: Clicked on element with locator: body > div.api-side.home > div.try > div.image > div > img locatorType: css
+07/08/2018 04:19:15 PM - SeleniumDriver - INFO: Element found with locator: mce-EMAIL and  locatorType: id
+07/08/2018 04:19:15 PM - SeleniumDriver - INFO: Cannot send data on the element with locator: mce-EMAIL locatorType: id
+07/08/2018 04:19:15 PM - SeleniumDriver - INFO: Element found with locator: mc-embedded-subscribe and  locatorType: id
+07/08/2018 04:19:15 PM - SeleniumDriver - INFO: Cannot click on the element with locator: mc-embedded-subscribe locatorType: id
+07/08/2018 04:19:15 PM - SeleniumDriver - INFO: FAIL: Contact Page was not found!
+07/08/2018 04:19:15 PM - SeleniumDriver - INFO: PASS: Contact Page was found!
+07/08/2018 04:19:15 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 04:19:15 PM - SeleniumDriver - INFO: Element not found
+07/08/2018 04:19:15 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 04:19:15 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 04:19:15 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 04:19:15 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 04:24:25 PM - SeleniumDriver - INFO: Element not found with locator: div.vertical-nav.ul.li:nth-child(1) and  locatorType: css
+07/08/2018 04:24:25 PM - SeleniumDriver - INFO: Cannot click on the element with locator: div.vertical-nav.ul.li:nth-child(1) locatorType: css
+07/08/2018 04:24:30 PM - SeleniumDriver - INFO: Element found with locator: mce-EMAIL and  locatorType: id
+07/08/2018 04:24:30 PM - SeleniumDriver - INFO: Sent data on element with locator: mce-EMAIL locatorType: id
+07/08/2018 04:24:30 PM - SeleniumDriver - INFO: Element found with locator: mc-embedded-subscribe and  locatorType: id
+07/08/2018 04:24:30 PM - SeleniumDriver - INFO: Cannot click on the element with locator: mc-embedded-subscribe locatorType: id
+07/08/2018 04:24:30 PM - SeleniumDriver - INFO: Element not found
+07/08/2018 04:24:30 PM - SeleniumDriver - INFO: Element found with locator: body > div.api-side.home > div.try > div.image > div > img and  locatorType: css
+07/08/2018 04:24:30 PM - SeleniumDriver - INFO: Clicked on element with locator: body > div.api-side.home > div.try > div.image > div > img locatorType: css
+07/08/2018 04:24:30 PM - SeleniumDriver - INFO: Element not found with locator: .body > div.api-side.home > div.code-wrapper > a and  locatorType: css
+07/08/2018 04:24:30 PM - SeleniumDriver - INFO: Cannot click on the element with locator: .body > div.api-side.home > div.code-wrapper > a locatorType: css
+07/08/2018 04:24:30 PM - SeleniumDriver - INFO: Element found with locator: body > div.api-side.home > div.try > div.image > div > img and  locatorType: css
+07/08/2018 04:24:30 PM - SeleniumDriver - INFO: Clicked on element with locator: body > div.api-side.home > div.try > div.image > div > img locatorType: css
+07/08/2018 04:24:30 PM - SeleniumDriver - INFO: Element found with locator: mce-EMAIL and  locatorType: id
+07/08/2018 04:24:30 PM - SeleniumDriver - INFO: Cannot send data on the element with locator: mce-EMAIL locatorType: id
+07/08/2018 04:24:30 PM - SeleniumDriver - INFO: Element found with locator: mc-embedded-subscribe and  locatorType: id
+07/08/2018 04:24:30 PM - SeleniumDriver - INFO: Cannot click on the element with locator: mc-embedded-subscribe locatorType: id
+07/08/2018 04:24:30 PM - SeleniumDriver - INFO: FAIL: Contact Page was not found!
+07/08/2018 04:24:30 PM - SeleniumDriver - INFO: PASS: Contact Page was found!
+07/08/2018 04:24:30 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 04:24:30 PM - SeleniumDriver - INFO: Element not found
+07/08/2018 04:24:30 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 04:24:30 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 04:24:30 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 04:24:30 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 04:28:14 PM - SeleniumDriver - INFO: Element not found with locator: div.vertical-nav.ul.li:nth-child(1) and  locatorType: css
+07/08/2018 04:28:14 PM - SeleniumDriver - INFO: Cannot click on the element with locator: div.vertical-nav.ul.li:nth-child(1) locatorType: css
+07/08/2018 04:28:19 PM - SeleniumDriver - INFO: Element found with locator: mce-EMAIL and  locatorType: id
+07/08/2018 04:28:19 PM - SeleniumDriver - INFO: Sent data on element with locator: mce-EMAIL locatorType: id
+07/08/2018 04:28:19 PM - SeleniumDriver - INFO: Element found with locator: mc-embedded-subscribe and  locatorType: id
+07/08/2018 04:28:19 PM - SeleniumDriver - INFO: Cannot click on the element with locator: mc-embedded-subscribe locatorType: id
+07/08/2018 04:28:19 PM - SeleniumDriver - INFO: Element not found
+07/08/2018 04:28:19 PM - SeleniumDriver - INFO: Element found with locator: body > div.api-side.home > div.try > div.image > div > img and  locatorType: css
+07/08/2018 04:28:20 PM - SeleniumDriver - INFO: Clicked on element with locator: body > div.api-side.home > div.try > div.image > div > img locatorType: css
+07/08/2018 04:28:20 PM - SeleniumDriver - INFO: Element not found with locator: .body > div.api-side.home > div.code-wrapper > a and  locatorType: css
+07/08/2018 04:28:20 PM - SeleniumDriver - INFO: Cannot click on the element with locator: .body > div.api-side.home > div.code-wrapper > a locatorType: css
+07/08/2018 04:28:20 PM - SeleniumDriver - INFO: Element found with locator: body > div.api-side.home > div.try > div.image > div > img and  locatorType: css
+07/08/2018 04:28:20 PM - SeleniumDriver - INFO: Clicked on element with locator: body > div.api-side.home > div.try > div.image > div > img locatorType: css
+07/08/2018 04:28:20 PM - SeleniumDriver - INFO: Element found with locator: mce-EMAIL and  locatorType: id
+07/08/2018 04:28:20 PM - SeleniumDriver - INFO: Cannot send data on the element with locator: mce-EMAIL locatorType: id
+07/08/2018 04:28:20 PM - SeleniumDriver - INFO: Element found with locator: mc-embedded-subscribe and  locatorType: id
+07/08/2018 04:28:20 PM - SeleniumDriver - INFO: Cannot click on the element with locator: mc-embedded-subscribe locatorType: id
+07/08/2018 04:28:20 PM - SeleniumDriver - INFO: FAIL: Contact Page was not found!
+07/08/2018 04:28:20 PM - SeleniumDriver - INFO: PASS: Contact Page was found!
+07/08/2018 04:28:20 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 04:28:20 PM - SeleniumDriver - INFO: Element not found
+07/08/2018 04:28:20 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 04:28:20 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 04:28:20 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 04:28:20 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 04:29:41 PM - SeleniumDriver - INFO: Element not found with locator: div.vertical-nav.ul.li:nth-child(1) and  locatorType: css
+07/08/2018 04:29:41 PM - SeleniumDriver - INFO: Cannot click on the element with locator: div.vertical-nav.ul.li:nth-child(1) locatorType: css
+07/08/2018 04:29:46 PM - SeleniumDriver - INFO: Element found with locator: mce-EMAIL and  locatorType: id
+07/08/2018 04:29:46 PM - SeleniumDriver - INFO: Sent data on element with locator: mce-EMAIL locatorType: id
+07/08/2018 04:29:46 PM - SeleniumDriver - INFO: Element found with locator: mc-embedded-subscribe and  locatorType: id
+07/08/2018 04:29:46 PM - SeleniumDriver - INFO: Cannot click on the element with locator: mc-embedded-subscribe locatorType: id
+07/08/2018 04:29:46 PM - SeleniumDriver - INFO: Element not found
+07/08/2018 04:29:46 PM - SeleniumDriver - INFO: Element found with locator: body > div.api-side.home > div.try > div.image > div > img and  locatorType: css
+07/08/2018 04:29:47 PM - SeleniumDriver - INFO: Clicked on element with locator: body > div.api-side.home > div.try > div.image > div > img locatorType: css
+07/08/2018 04:29:47 PM - SeleniumDriver - INFO: Element not found with locator: .body > div.api-side.home > div.code-wrapper > a and  locatorType: css
+07/08/2018 04:29:47 PM - SeleniumDriver - INFO: Cannot click on the element with locator: .body > div.api-side.home > div.code-wrapper > a locatorType: css
+07/08/2018 04:29:47 PM - SeleniumDriver - INFO: Element found with locator: body > div.api-side.home > div.try > div.image > div > img and  locatorType: css
+07/08/2018 04:29:47 PM - SeleniumDriver - INFO: Clicked on element with locator: body > div.api-side.home > div.try > div.image > div > img locatorType: css
+07/08/2018 04:29:47 PM - SeleniumDriver - INFO: Element found with locator: mce-EMAIL and  locatorType: id
+07/08/2018 04:29:47 PM - SeleniumDriver - INFO: Cannot send data on the element with locator: mce-EMAIL locatorType: id
+07/08/2018 04:29:47 PM - SeleniumDriver - INFO: Element found with locator: mc-embedded-subscribe and  locatorType: id
+07/08/2018 04:29:47 PM - SeleniumDriver - INFO: Cannot click on the element with locator: mc-embedded-subscribe locatorType: id
+07/08/2018 04:29:47 PM - SeleniumDriver - INFO: FAIL: Contact Page was not found!
+07/08/2018 04:29:47 PM - SeleniumDriver - INFO: PASS: Contact Page was found!
+07/08/2018 04:29:47 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 04:29:47 PM - SeleniumDriver - INFO: Element not found
+07/08/2018 04:29:47 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 04:29:47 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 04:29:47 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 04:29:47 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 04:33:58 PM - SeleniumDriver - INFO: Element not found with locator: div.vertical-nav.ul.li:nth-child(1) and  locatorType: css
+07/08/2018 04:33:58 PM - SeleniumDriver - INFO: Cannot click on the element with locator: div.vertical-nav.ul.li:nth-child(1) locatorType: css
+07/08/2018 04:34:03 PM - SeleniumDriver - INFO: Element found with locator: mce-EMAIL and  locatorType: id
+07/08/2018 04:34:03 PM - SeleniumDriver - INFO: Sent data on element with locator: mce-EMAIL locatorType: id
+07/08/2018 04:34:03 PM - SeleniumDriver - INFO: Element found with locator: mc-embedded-subscribe and  locatorType: id
+07/08/2018 04:34:03 PM - SeleniumDriver - INFO: Cannot click on the element with locator: mc-embedded-subscribe locatorType: id
+07/08/2018 04:34:03 PM - SeleniumDriver - INFO: Element not found
+07/08/2018 04:34:03 PM - SeleniumDriver - INFO: Element found with locator: body > div.api-side.home > div.try > div.image > div > img and  locatorType: css
+07/08/2018 04:34:03 PM - SeleniumDriver - INFO: Clicked on element with locator: body > div.api-side.home > div.try > div.image > div > img locatorType: css
+07/08/2018 04:34:03 PM - SeleniumDriver - INFO: Element not found with locator: .body > div.api-side.home > div.code-wrapper > a and  locatorType: css
+07/08/2018 04:34:03 PM - SeleniumDriver - INFO: Cannot click on the element with locator: .body > div.api-side.home > div.code-wrapper > a locatorType: css
+07/08/2018 04:34:03 PM - SeleniumDriver - INFO: Element found with locator: body > div.api-side.home > div.try > div.image > div > img and  locatorType: css
+07/08/2018 04:34:03 PM - SeleniumDriver - INFO: Clicked on element with locator: body > div.api-side.home > div.try > div.image > div > img locatorType: css
+07/08/2018 04:34:03 PM - SeleniumDriver - INFO: Element found with locator: mce-EMAIL and  locatorType: id
+07/08/2018 04:34:03 PM - SeleniumDriver - INFO: Cannot send data on the element with locator: mce-EMAIL locatorType: id
+07/08/2018 04:34:03 PM - SeleniumDriver - INFO: Element found with locator: mc-embedded-subscribe and  locatorType: id
+07/08/2018 04:34:03 PM - SeleniumDriver - INFO: Cannot click on the element with locator: mc-embedded-subscribe locatorType: id
+07/08/2018 04:34:03 PM - SeleniumDriver - INFO: FAIL: Contact Page was not found!
+07/08/2018 04:34:03 PM - SeleniumDriver - INFO: PASS: Contact Page was found!
+07/08/2018 04:34:03 PM - SeleniumDriver - INFO: Element not found
+07/08/2018 04:34:03 PM - SeleniumDriver - INFO: Element not found
+07/08/2018 04:34:03 PM - SeleniumDriver - INFO: Element not found
+07/08/2018 04:34:03 PM - SeleniumDriver - INFO: Element not found
+07/08/2018 04:34:03 PM - SeleniumDriver - INFO: Element not found
+07/08/2018 04:34:03 PM - SeleniumDriver - INFO: Element not found
+07/08/2018 04:38:44 PM - SeleniumDriver - INFO: Element not found with locator: div.vertical-nav.ul.li:nth-child(1) and  locatorType: css
+07/08/2018 04:38:44 PM - SeleniumDriver - INFO: Cannot click on the element with locator: div.vertical-nav.ul.li:nth-child(1) locatorType: css
+07/08/2018 04:38:49 PM - SeleniumDriver - INFO: Element found with locator: mce-EMAIL and  locatorType: id
+07/08/2018 04:38:49 PM - SeleniumDriver - INFO: Sent data on element with locator: mce-EMAIL locatorType: id
+07/08/2018 04:38:49 PM - SeleniumDriver - INFO: Element found with locator: mc-embedded-subscribe and  locatorType: id
+07/08/2018 04:38:49 PM - SeleniumDriver - INFO: Cannot click on the element with locator: mc-embedded-subscribe locatorType: id
+07/08/2018 04:38:49 PM - SeleniumDriver - INFO: Element not found
+07/08/2018 04:38:49 PM - SeleniumDriver - INFO: Element found with locator: body > div.api-side.home > div.try > div.image > div > img and  locatorType: css
+07/08/2018 04:38:49 PM - SeleniumDriver - INFO: Clicked on element with locator: body > div.api-side.home > div.try > div.image > div > img locatorType: css
+07/08/2018 04:38:49 PM - SeleniumDriver - INFO: Element not found with locator: .body > div.api-side.home > div.code-wrapper > a and  locatorType: css
+07/08/2018 04:38:49 PM - SeleniumDriver - INFO: Cannot click on the element with locator: .body > div.api-side.home > div.code-wrapper > a locatorType: css
+07/08/2018 04:38:49 PM - SeleniumDriver - INFO: Element found with locator: body > div.api-side.home > div.try > div.image > div > img and  locatorType: css
+07/08/2018 04:38:49 PM - SeleniumDriver - INFO: Clicked on element with locator: body > div.api-side.home > div.try > div.image > div > img locatorType: css
+07/08/2018 04:38:49 PM - SeleniumDriver - INFO: Element found with locator: mce-EMAIL and  locatorType: id
+07/08/2018 04:38:49 PM - SeleniumDriver - INFO: Cannot send data on the element with locator: mce-EMAIL locatorType: id
+07/08/2018 04:38:49 PM - SeleniumDriver - INFO: Element found with locator: mc-embedded-subscribe and  locatorType: id
+07/08/2018 04:38:49 PM - SeleniumDriver - INFO: Cannot click on the element with locator: mc-embedded-subscribe locatorType: id
+07/08/2018 04:38:49 PM - SeleniumDriver - INFO: FAIL: Contact Page was not found!
+07/08/2018 04:38:49 PM - SeleniumDriver - INFO: PASS: Contact Page was found!
+07/08/2018 04:38:49 PM - SeleniumDriver - INFO: Element not found
+07/08/2018 04:38:49 PM - SeleniumDriver - INFO: Element not found
+07/08/2018 04:38:49 PM - SeleniumDriver - INFO: Element not found
+07/08/2018 04:38:49 PM - SeleniumDriver - INFO: Element not found
+07/08/2018 04:38:49 PM - SeleniumDriver - INFO: Element not found
+07/08/2018 04:38:49 PM - SeleniumDriver - INFO: Element not found
+07/08/2018 04:39:23 PM - SeleniumDriver - INFO: Element not found with locator: div.vertical-nav.ul.li:nth-child(1) and  locatorType: css
+07/08/2018 04:39:23 PM - SeleniumDriver - INFO: Cannot click on the element with locator: div.vertical-nav.ul.li:nth-child(1) locatorType: css
+07/08/2018 04:39:28 PM - SeleniumDriver - INFO: Element found with locator: mce-EMAIL and  locatorType: id
+07/08/2018 04:39:28 PM - SeleniumDriver - INFO: Sent data on element with locator: mce-EMAIL locatorType: id
+07/08/2018 04:39:28 PM - SeleniumDriver - INFO: Element found with locator: mc-embedded-subscribe and  locatorType: id
+07/08/2018 04:39:28 PM - SeleniumDriver - INFO: Cannot click on the element with locator: mc-embedded-subscribe locatorType: id
+07/08/2018 04:39:28 PM - SeleniumDriver - INFO: Element not found
+07/08/2018 04:39:28 PM - SeleniumDriver - INFO: Element found with locator: body > div.api-side.home > div.try > div.image > div > img and  locatorType: css
+07/08/2018 04:39:28 PM - SeleniumDriver - INFO: Clicked on element with locator: body > div.api-side.home > div.try > div.image > div > img locatorType: css
+07/08/2018 04:39:28 PM - SeleniumDriver - INFO: Element not found with locator: .body > div.api-side.home > div.code-wrapper > a and  locatorType: css
+07/08/2018 04:39:28 PM - SeleniumDriver - INFO: Cannot click on the element with locator: .body > div.api-side.home > div.code-wrapper > a locatorType: css
+07/08/2018 04:39:28 PM - SeleniumDriver - INFO: Element found with locator: body > div.api-side.home > div.try > div.image > div > img and  locatorType: css
+07/08/2018 04:39:29 PM - SeleniumDriver - INFO: Clicked on element with locator: body > div.api-side.home > div.try > div.image > div > img locatorType: css
+07/08/2018 04:39:29 PM - SeleniumDriver - INFO: Element found with locator: mce-EMAIL and  locatorType: id
+07/08/2018 04:39:29 PM - SeleniumDriver - INFO: Cannot send data on the element with locator: mce-EMAIL locatorType: id
+07/08/2018 04:39:29 PM - SeleniumDriver - INFO: Element found with locator: mc-embedded-subscribe and  locatorType: id
+07/08/2018 04:39:29 PM - SeleniumDriver - INFO: Cannot click on the element with locator: mc-embedded-subscribe locatorType: id
+07/08/2018 04:39:29 PM - SeleniumDriver - INFO: FAIL: Contact Page was not found!
+07/08/2018 04:39:29 PM - SeleniumDriver - INFO: PASS: Contact Page was found!
+07/08/2018 04:39:29 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 04:39:29 PM - SeleniumDriver - INFO: Element not found
+07/08/2018 04:39:29 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 04:39:29 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 04:39:29 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 04:39:29 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 08:24:46 PM - SeleniumDriver - INFO: Element not found with locator: div.vertical-nav.ul.li:nth-child(1) and  locatorType: css
+07/08/2018 08:24:46 PM - SeleniumDriver - INFO: Cannot click on the element with locator: div.vertical-nav.ul.li:nth-child(1) locatorType: css
+07/08/2018 08:24:51 PM - SeleniumDriver - INFO: Element found with locator: mce-EMAIL and  locatorType: id
+07/08/2018 08:24:51 PM - SeleniumDriver - INFO: Sent data on element with locator: mce-EMAIL locatorType: id
+07/08/2018 08:24:51 PM - SeleniumDriver - INFO: Element found with locator: mc-embedded-subscribe and  locatorType: id
+07/08/2018 08:24:51 PM - SeleniumDriver - INFO: Cannot click on the element with locator: mc-embedded-subscribe locatorType: id
+07/08/2018 08:24:51 PM - SeleniumDriver - INFO: Element not found
+07/08/2018 08:24:51 PM - SeleniumDriver - INFO: Element found with locator: body > div.api-side.home > div.try > div.image > div > img and  locatorType: css
+07/08/2018 08:24:51 PM - SeleniumDriver - INFO: Clicked on element with locator: body > div.api-side.home > div.try > div.image > div > img locatorType: css
+07/08/2018 08:24:51 PM - SeleniumDriver - INFO: Element not found with locator: .body > div.api-side.home > div.code-wrapper > a and  locatorType: css
+07/08/2018 08:24:51 PM - SeleniumDriver - INFO: Cannot click on the element with locator: .body > div.api-side.home > div.code-wrapper > a locatorType: css
+07/08/2018 08:24:51 PM - SeleniumDriver - INFO: Element found with locator: body > div.api-side.home > div.try > div.image > div > img and  locatorType: css
+07/08/2018 08:24:51 PM - SeleniumDriver - INFO: Clicked on element with locator: body > div.api-side.home > div.try > div.image > div > img locatorType: css
+07/08/2018 08:24:51 PM - SeleniumDriver - INFO: Element found with locator: mce-EMAIL and  locatorType: id
+07/08/2018 08:24:51 PM - SeleniumDriver - INFO: Cannot send data on the element with locator: mce-EMAIL locatorType: id
+07/08/2018 08:24:51 PM - SeleniumDriver - INFO: Element found with locator: mc-embedded-subscribe and  locatorType: id
+07/08/2018 08:24:51 PM - SeleniumDriver - INFO: Cannot click on the element with locator: mc-embedded-subscribe locatorType: id
+07/08/2018 08:24:51 PM - SeleniumDriver - INFO: FAIL: Contact Page was not found!
+07/08/2018 08:24:51 PM - SeleniumDriver - INFO: PASS: Contact Page was found!
+07/08/2018 08:24:51 PM - SeleniumDriver - INFO: Element not found
+07/08/2018 08:24:51 PM - SeleniumDriver - INFO: Element not found
+07/08/2018 08:24:51 PM - SeleniumDriver - INFO: Element not found
+07/08/2018 08:24:51 PM - SeleniumDriver - INFO: Element not found
+07/08/2018 08:24:51 PM - SeleniumDriver - INFO: Element not found
+07/08/2018 08:24:51 PM - SeleniumDriver - INFO: Element not found
+07/08/2018 08:25:17 PM - SeleniumDriver - INFO: Element not found with locator: div.vertical-nav.ul.li:nth-child(1) and  locatorType: css
+07/08/2018 08:25:17 PM - SeleniumDriver - INFO: Cannot click on the element with locator: div.vertical-nav.ul.li:nth-child(1) locatorType: css
+07/08/2018 08:25:22 PM - SeleniumDriver - INFO: Element found with locator: mce-EMAIL and  locatorType: id
+07/08/2018 08:25:22 PM - SeleniumDriver - INFO: Sent data on element with locator: mce-EMAIL locatorType: id
+07/08/2018 08:25:22 PM - SeleniumDriver - INFO: Element found with locator: mc-embedded-subscribe and  locatorType: id
+07/08/2018 08:25:22 PM - SeleniumDriver - INFO: Cannot click on the element with locator: mc-embedded-subscribe locatorType: id
+07/08/2018 08:25:22 PM - SeleniumDriver - INFO: Element not found
+07/08/2018 08:25:22 PM - SeleniumDriver - INFO: Element found with locator: body > div.api-side.home > div.try > div.image > div > img and  locatorType: css
+07/08/2018 08:25:23 PM - SeleniumDriver - INFO: Clicked on element with locator: body > div.api-side.home > div.try > div.image > div > img locatorType: css
+07/08/2018 08:25:23 PM - SeleniumDriver - INFO: Element not found with locator: .body > div.api-side.home > div.code-wrapper > a and  locatorType: css
+07/08/2018 08:25:23 PM - SeleniumDriver - INFO: Cannot click on the element with locator: .body > div.api-side.home > div.code-wrapper > a locatorType: css
+07/08/2018 08:25:23 PM - SeleniumDriver - INFO: Element found with locator: body > div.api-side.home > div.try > div.image > div > img and  locatorType: css
+07/08/2018 08:25:23 PM - SeleniumDriver - INFO: Clicked on element with locator: body > div.api-side.home > div.try > div.image > div > img locatorType: css
+07/08/2018 08:25:23 PM - SeleniumDriver - INFO: Element found with locator: mce-EMAIL and  locatorType: id
+07/08/2018 08:25:23 PM - SeleniumDriver - INFO: Cannot send data on the element with locator: mce-EMAIL locatorType: id
+07/08/2018 08:25:23 PM - SeleniumDriver - INFO: Element found with locator: mc-embedded-subscribe and  locatorType: id
+07/08/2018 08:25:23 PM - SeleniumDriver - INFO: Cannot click on the element with locator: mc-embedded-subscribe locatorType: id
+07/08/2018 08:25:23 PM - SeleniumDriver - INFO: FAIL: Contact Page was not found!
+07/08/2018 08:25:23 PM - SeleniumDriver - INFO: PASS: Contact Page was found!
+07/08/2018 08:25:23 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 08:25:23 PM - SeleniumDriver - INFO: Element not found
+07/08/2018 08:25:23 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 08:25:23 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 08:25:23 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 08:25:23 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 08:26:01 PM - SeleniumDriver - INFO: Element not found with locator: div.vertical-nav.ul.li:nth-child(1) and  locatorType: css
+07/08/2018 08:26:01 PM - SeleniumDriver - INFO: Cannot click on the element with locator: div.vertical-nav.ul.li:nth-child(1) locatorType: css
+07/08/2018 08:26:06 PM - SeleniumDriver - INFO: Element found with locator: mce-EMAIL and  locatorType: id
+07/08/2018 08:26:06 PM - SeleniumDriver - INFO: Sent data on element with locator: mce-EMAIL locatorType: id
+07/08/2018 08:26:06 PM - SeleniumDriver - INFO: Element found with locator: mc-embedded-subscribe and  locatorType: id
+07/08/2018 08:26:06 PM - SeleniumDriver - INFO: Cannot click on the element with locator: mc-embedded-subscribe locatorType: id
+07/08/2018 08:26:06 PM - SeleniumDriver - INFO: Element not found
+07/08/2018 08:26:06 PM - SeleniumDriver - INFO: Element found with locator: body > div.api-side.home > div.try > div.image > div > img and  locatorType: css
+07/08/2018 08:26:07 PM - SeleniumDriver - INFO: Clicked on element with locator: body > div.api-side.home > div.try > div.image > div > img locatorType: css
+07/08/2018 08:26:07 PM - SeleniumDriver - INFO: Element not found with locator: .body > div.api-side.home > div.code-wrapper > a and  locatorType: css
+07/08/2018 08:26:07 PM - SeleniumDriver - INFO: Cannot click on the element with locator: .body > div.api-side.home > div.code-wrapper > a locatorType: css
+07/08/2018 08:26:07 PM - SeleniumDriver - INFO: Element found with locator: body > div.api-side.home > div.try > div.image > div > img and  locatorType: css
+07/08/2018 08:26:07 PM - SeleniumDriver - INFO: Clicked on element with locator: body > div.api-side.home > div.try > div.image > div > img locatorType: css
+07/08/2018 08:26:07 PM - SeleniumDriver - INFO: Element found with locator: mce-EMAIL and  locatorType: id
+07/08/2018 08:26:07 PM - SeleniumDriver - INFO: Cannot send data on the element with locator: mce-EMAIL locatorType: id
+07/08/2018 08:26:07 PM - SeleniumDriver - INFO: Element found with locator: mc-embedded-subscribe and  locatorType: id
+07/08/2018 08:26:07 PM - SeleniumDriver - INFO: Cannot click on the element with locator: mc-embedded-subscribe locatorType: id
+07/08/2018 08:26:07 PM - SeleniumDriver - INFO: FAIL: Contact Page was not found!
+07/08/2018 08:26:07 PM - SeleniumDriver - INFO: PASS: Contact Page was found!
+07/08/2018 08:26:07 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 08:26:07 PM - SeleniumDriver - INFO: Element not found
+07/08/2018 08:26:07 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 08:26:07 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 08:26:07 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 08:26:07 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 08:26:46 PM - SeleniumDriver - INFO: Element not found with locator: div.vertical-nav.ul.li:nth-child(1) and  locatorType: css
+07/08/2018 08:26:46 PM - SeleniumDriver - INFO: Cannot click on the element with locator: div.vertical-nav.ul.li:nth-child(1) locatorType: css
+07/08/2018 08:26:51 PM - SeleniumDriver - INFO: Element found with locator: mce-EMAIL and  locatorType: id
+07/08/2018 08:26:51 PM - SeleniumDriver - INFO: Sent data on element with locator: mce-EMAIL locatorType: id
+07/08/2018 08:26:51 PM - SeleniumDriver - INFO: Element found with locator: mc-embedded-subscribe and  locatorType: id
+07/08/2018 08:26:51 PM - SeleniumDriver - INFO: Cannot click on the element with locator: mc-embedded-subscribe locatorType: id
+07/08/2018 08:26:51 PM - SeleniumDriver - INFO: Element not found
+07/08/2018 08:26:51 PM - SeleniumDriver - INFO: Element found with locator: body > div.api-side.home > div.try > div.image > div > img and  locatorType: css
+07/08/2018 08:26:51 PM - SeleniumDriver - INFO: Clicked on element with locator: body > div.api-side.home > div.try > div.image > div > img locatorType: css
+07/08/2018 08:26:51 PM - SeleniumDriver - INFO: Element not found with locator: .body > div.api-side.home > div.code-wrapper > a and  locatorType: css
+07/08/2018 08:26:51 PM - SeleniumDriver - INFO: Cannot click on the element with locator: .body > div.api-side.home > div.code-wrapper > a locatorType: css
+07/08/2018 08:26:51 PM - SeleniumDriver - INFO: Element found with locator: body > div.api-side.home > div.try > div.image > div > img and  locatorType: css
+07/08/2018 08:26:51 PM - SeleniumDriver - INFO: Clicked on element with locator: body > div.api-side.home > div.try > div.image > div > img locatorType: css
+07/08/2018 08:26:51 PM - SeleniumDriver - INFO: Element found with locator: mce-EMAIL and  locatorType: id
+07/08/2018 08:26:51 PM - SeleniumDriver - INFO: Cannot send data on the element with locator: mce-EMAIL locatorType: id
+07/08/2018 08:26:51 PM - SeleniumDriver - INFO: Element found with locator: mc-embedded-subscribe and  locatorType: id
+07/08/2018 08:26:51 PM - SeleniumDriver - INFO: Cannot click on the element with locator: mc-embedded-subscribe locatorType: id
+07/08/2018 08:26:51 PM - SeleniumDriver - INFO: FAIL: Contact Page was not found!
+07/08/2018 08:26:51 PM - SeleniumDriver - INFO: PASS: Contact Page was found!
+07/08/2018 08:26:51 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 08:26:51 PM - SeleniumDriver - INFO: Element not found
+07/08/2018 08:26:51 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 08:26:51 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 08:26:51 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 08:26:51 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 08:27:33 PM - SeleniumDriver - INFO: Element not found with locator: div.vertical-nav.ul.li:nth-child(1) and  locatorType: css
+07/08/2018 08:27:33 PM - SeleniumDriver - INFO: Cannot click on the element with locator: div.vertical-nav.ul.li:nth-child(1) locatorType: css
+07/08/2018 08:27:38 PM - SeleniumDriver - INFO: Element found with locator: mce-EMAIL and  locatorType: id
+07/08/2018 08:27:38 PM - SeleniumDriver - INFO: Sent data on element with locator: mce-EMAIL locatorType: id
+07/08/2018 08:27:38 PM - SeleniumDriver - INFO: Element found with locator: mc-embedded-subscribe and  locatorType: id
+07/08/2018 08:27:38 PM - SeleniumDriver - INFO: Cannot click on the element with locator: mc-embedded-subscribe locatorType: id
+07/08/2018 08:27:38 PM - SeleniumDriver - INFO: Element not found
+07/08/2018 08:27:38 PM - SeleniumDriver - INFO: Element found with locator: body > div.api-side.home > div.try > div.image > div > img and  locatorType: css
+07/08/2018 08:27:38 PM - SeleniumDriver - INFO: Clicked on element with locator: body > div.api-side.home > div.try > div.image > div > img locatorType: css
+07/08/2018 08:27:38 PM - SeleniumDriver - INFO: Element not found with locator: .body > div.api-side.home > div.code-wrapper > a and  locatorType: css
+07/08/2018 08:27:38 PM - SeleniumDriver - INFO: Cannot click on the element with locator: .body > div.api-side.home > div.code-wrapper > a locatorType: css
+07/08/2018 08:27:38 PM - SeleniumDriver - INFO: Element found with locator: body > div.api-side.home > div.try > div.image > div > img and  locatorType: css
+07/08/2018 08:27:38 PM - SeleniumDriver - INFO: Clicked on element with locator: body > div.api-side.home > div.try > div.image > div > img locatorType: css
+07/08/2018 08:27:38 PM - SeleniumDriver - INFO: Element found with locator: mce-EMAIL and  locatorType: id
+07/08/2018 08:27:38 PM - SeleniumDriver - INFO: Cannot send data on the element with locator: mce-EMAIL locatorType: id
+07/08/2018 08:27:38 PM - SeleniumDriver - INFO: Element found with locator: mc-embedded-subscribe and  locatorType: id
+07/08/2018 08:27:38 PM - SeleniumDriver - INFO: Cannot click on the element with locator: mc-embedded-subscribe locatorType: id
+07/08/2018 08:27:38 PM - SeleniumDriver - INFO: FAIL: Contact Page was not found!
+07/08/2018 08:27:38 PM - SeleniumDriver - INFO: PASS: Contact Page was found!
+07/08/2018 08:27:38 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 08:27:38 PM - SeleniumDriver - INFO: Element not found
+07/08/2018 08:27:38 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 08:27:38 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 08:27:38 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 08:27:38 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 08:28:00 PM - SeleniumDriver - INFO: Element not found with locator: div.vertical-nav.ul.li:nth-child(1) and  locatorType: css
+07/08/2018 08:28:00 PM - SeleniumDriver - INFO: Cannot click on the element with locator: div.vertical-nav.ul.li:nth-child(1) locatorType: css
+07/08/2018 08:28:05 PM - SeleniumDriver - INFO: Element found with locator: mce-EMAIL and  locatorType: id
+07/08/2018 08:28:05 PM - SeleniumDriver - INFO: Sent data on element with locator: mce-EMAIL locatorType: id
+07/08/2018 08:28:05 PM - SeleniumDriver - INFO: Element found with locator: mc-embedded-subscribe and  locatorType: id
+07/08/2018 08:28:05 PM - SeleniumDriver - INFO: Cannot click on the element with locator: mc-embedded-subscribe locatorType: id
+07/08/2018 08:28:05 PM - SeleniumDriver - INFO: Element not found
+07/08/2018 08:28:05 PM - SeleniumDriver - INFO: Element found with locator: body > div.api-side.home > div.try > div.image > div > img and  locatorType: css
+07/08/2018 08:28:05 PM - SeleniumDriver - INFO: Clicked on element with locator: body > div.api-side.home > div.try > div.image > div > img locatorType: css
+07/08/2018 08:28:06 PM - SeleniumDriver - INFO: Element not found with locator: .body > div.api-side.home > div.code-wrapper > a and  locatorType: css
+07/08/2018 08:28:06 PM - SeleniumDriver - INFO: Cannot click on the element with locator: .body > div.api-side.home > div.code-wrapper > a locatorType: css
+07/08/2018 08:28:06 PM - SeleniumDriver - INFO: Element found with locator: body > div.api-side.home > div.try > div.image > div > img and  locatorType: css
+07/08/2018 08:28:06 PM - SeleniumDriver - INFO: Clicked on element with locator: body > div.api-side.home > div.try > div.image > div > img locatorType: css
+07/08/2018 08:28:06 PM - SeleniumDriver - INFO: Element found with locator: mce-EMAIL and  locatorType: id
+07/08/2018 08:28:06 PM - SeleniumDriver - INFO: Cannot send data on the element with locator: mce-EMAIL locatorType: id
+07/08/2018 08:28:06 PM - SeleniumDriver - INFO: Element found with locator: mc-embedded-subscribe and  locatorType: id
+07/08/2018 08:28:06 PM - SeleniumDriver - INFO: Cannot click on the element with locator: mc-embedded-subscribe locatorType: id
+07/08/2018 08:28:06 PM - SeleniumDriver - INFO: FAIL: Contact Page was not found!
+07/08/2018 08:28:06 PM - SeleniumDriver - INFO: PASS: Contact Page was found!
+07/08/2018 08:28:06 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 08:28:06 PM - SeleniumDriver - INFO: Element not found
+07/08/2018 08:28:06 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 08:28:06 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 08:28:06 PM - SeleniumDriver - INFO: Element Found
+07/08/2018 08:28:06 PM - SeleniumDriver - INFO: Element Found
+07/09/2018 08:58:35 AM - SeleniumDriver - INFO: Element not found with locator: div.vertical-nav.ul.li:nth-child(1) and  locatorType: css
+07/09/2018 08:58:35 AM - SeleniumDriver - INFO: Cannot click on the element with locator: div.vertical-nav.ul.li:nth-child(1) locatorType: css
+07/09/2018 08:58:41 AM - SeleniumDriver - INFO: Element found with locator: mce-EMAIL and  locatorType: id
+07/09/2018 08:58:41 AM - SeleniumDriver - INFO: Sent data on element with locator: mce-EMAIL locatorType: id
+07/09/2018 08:58:41 AM - SeleniumDriver - INFO: Element found with locator: mc-embedded-subscribe and  locatorType: id
+07/09/2018 08:58:41 AM - SeleniumDriver - INFO: Cannot click on the element with locator: mc-embedded-subscribe locatorType: id
+07/09/2018 08:58:41 AM - SeleniumDriver - INFO: Element not found
+07/09/2018 08:58:41 AM - SeleniumDriver - INFO: Element found with locator: body > div.api-side.home > div.try > div.image > div > img and  locatorType: css
+07/09/2018 08:58:41 AM - SeleniumDriver - INFO: Clicked on element with locator: body > div.api-side.home > div.try > div.image > div > img locatorType: css
+07/09/2018 08:58:41 AM - SeleniumDriver - INFO: Element not found with locator: .body > div.api-side.home > div.code-wrapper > a and  locatorType: css
+07/09/2018 08:58:41 AM - SeleniumDriver - INFO: Cannot click on the element with locator: .body > div.api-side.home > div.code-wrapper > a locatorType: css
+07/09/2018 08:58:41 AM - SeleniumDriver - INFO: Element found with locator: body > div.api-side.home > div.try > div.image > div > img and  locatorType: css
+07/09/2018 08:58:41 AM - SeleniumDriver - INFO: Clicked on element with locator: body > div.api-side.home > div.try > div.image > div > img locatorType: css
+07/09/2018 08:58:41 AM - SeleniumDriver - INFO: Element found with locator: mce-EMAIL and  locatorType: id
+07/09/2018 08:58:41 AM - SeleniumDriver - INFO: Cannot send data on the element with locator: mce-EMAIL locatorType: id
+07/09/2018 08:58:41 AM - SeleniumDriver - INFO: Element found with locator: mc-embedded-subscribe and  locatorType: id
+07/09/2018 08:58:41 AM - SeleniumDriver - INFO: Cannot click on the element with locator: mc-embedded-subscribe locatorType: id
+07/09/2018 08:58:41 AM - SeleniumDriver - INFO: FAIL: Contact Page was not found!
+07/09/2018 08:58:41 AM - SeleniumDriver - INFO: PASS: Contact Page was found!
+07/09/2018 08:58:41 AM - SeleniumDriver - INFO: Element Found
+07/09/2018 08:58:41 AM - SeleniumDriver - INFO: Element not found
+07/09/2018 08:58:41 AM - SeleniumDriver - INFO: Element Found
+07/09/2018 08:58:41 AM - SeleniumDriver - INFO: Element Found
+07/09/2018 08:58:41 AM - SeleniumDriver - INFO: Element Found
+07/09/2018 08:58:41 AM - SeleniumDriver - INFO: Element Found
+07/09/2018 09:16:11 AM - SeleniumDriver - INFO: Element not found with locator: div.vertical-nav.ul.li:nth-child(1) and  locatorType: css
+07/09/2018 09:16:11 AM - SeleniumDriver - INFO: Cannot click on the element with locator: div.vertical-nav.ul.li:nth-child(1) locatorType: css
+07/09/2018 09:16:16 AM - SeleniumDriver - INFO: Element found with locator: mce-EMAIL and  locatorType: id
+07/09/2018 09:16:16 AM - SeleniumDriver - INFO: Sent data on element with locator: mce-EMAIL locatorType: id
+07/09/2018 09:16:16 AM - SeleniumDriver - INFO: Element found with locator: mc-embedded-subscribe and  locatorType: id
+07/09/2018 09:16:16 AM - SeleniumDriver - INFO: Cannot click on the element with locator: mc-embedded-subscribe locatorType: id
+07/09/2018 09:16:16 AM - SeleniumDriver - INFO: Element not found
+07/09/2018 09:16:16 AM - SeleniumDriver - INFO: Element found with locator: body > div.api-side.home > div.try > div.image > div > img and  locatorType: css
+07/09/2018 09:16:16 AM - SeleniumDriver - INFO: Clicked on element with locator: body > div.api-side.home > div.try > div.image > div > img locatorType: css
+07/09/2018 09:16:16 AM - SeleniumDriver - INFO: Element not found with locator: .body > div.api-side.home > div.code-wrapper > a and  locatorType: css
+07/09/2018 09:16:16 AM - SeleniumDriver - INFO: Cannot click on the element with locator: .body > div.api-side.home > div.code-wrapper > a locatorType: css
+07/09/2018 09:16:16 AM - SeleniumDriver - INFO: Element found with locator: body > div.api-side.home > div.try > div.image > div > img and  locatorType: css
+07/09/2018 09:16:16 AM - SeleniumDriver - INFO: Clicked on element with locator: body > div.api-side.home > div.try > div.image > div > img locatorType: css
+07/09/2018 09:16:16 AM - SeleniumDriver - INFO: Element found with locator: mce-EMAIL and  locatorType: id
+07/09/2018 09:16:16 AM - SeleniumDriver - INFO: Cannot send data on the element with locator: mce-EMAIL locatorType: id
+07/09/2018 09:16:16 AM - SeleniumDriver - INFO: Element found with locator: mc-embedded-subscribe and  locatorType: id
+07/09/2018 09:16:16 AM - SeleniumDriver - INFO: Cannot click on the element with locator: mc-embedded-subscribe locatorType: id
+07/09/2018 09:16:16 AM - SeleniumDriver - INFO: FAIL: Contact Page was not found!
+07/09/2018 09:16:16 AM - SeleniumDriver - INFO: PASS: Contact Page was found!
+07/09/2018 09:16:16 AM - SeleniumDriver - INFO: Element Found
+07/09/2018 09:16:16 AM - SeleniumDriver - INFO: Element not found
+07/09/2018 09:16:16 AM - SeleniumDriver - INFO: Element Found
+07/09/2018 09:16:16 AM - SeleniumDriver - INFO: Element Found
+07/09/2018 09:16:16 AM - SeleniumDriver - INFO: Element Found
+07/09/2018 09:16:16 AM - SeleniumDriver - INFO: Element Found
